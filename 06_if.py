@@ -20,11 +20,11 @@
 # 6세~ 69세 미만: 정가
 # 60세 이상 : 정가의 50%
 
-age = int(input('나이 입력 : '))
-price = 20000 # 정가
-if age < 6 :
-    print(f'입장료 무료')
-elif age < 60:
-    print(f'입장료는 {price}원')
-else:
-    print(f'입장료는 {int(price * 0.5)}원')
+# age = int(input('나이 입력 : '))
+# price = 20000 # 정가
+# if age < 6 :
+#     print(f'입장료는 무료!')
+# elif age < 60:
+#     print(f'입장료는 {price}원')
+# else:
+#     print(f'입장료는 {int(price * 0.5)}원')
