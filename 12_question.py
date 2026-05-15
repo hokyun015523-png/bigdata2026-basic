@@ -146,8 +146,8 @@
 # price(menue)
 
 #---------------------------------------------------------------------------------------
-#11 # 람다표현
-files = ['report.hwp', 'newjeans', 'attention.png', 'ditto.jpg', 'address.xslx']
+# #11 # 람다표현
+# files = ['report.hwp', 'newjeans', 'attention.png', 'ditto.jpg', 'address.xslx']
 
-result = filter(lambda x: 'jpg' in x or 'png' in x, files)
-print(list(result))
+# result = filter(lambda x: 'jpg' in x or 'png' in x, files)
+# print(list(result))
